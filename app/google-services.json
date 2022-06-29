@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1071282509439",
+    "project_id": "ogrencimjava",
+    "storage_bucket": "ogrencimjava.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071282509439:android:61bf00d2032935b05dd14a",
+        "android_client_info": {
+          "package_name": "com.sengun.ogrencim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071282509439-cdt92ju9h0j6dsm2nc4qis73stonjvku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfPtPDUOPEbUaHp26-8T0wODM2sCxiK3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071282509439-cdt92ju9h0j6dsm2nc4qis73stonjvku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
